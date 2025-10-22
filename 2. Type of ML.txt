@@ -6,9 +6,9 @@ Data:
 
 1. Supervised ML: When we have both Input and Output to find thier mathmetical relationship so than we can predict a output for new input data.
 	1. Regression: Have many numerical input data. Have to give ouput/target to Numerical Supervised oputput.
-`	2. Classification: Have many numerical input data. Have to give ouput/target tp Categorical Supervised oputput
+`	2. Classification: Have many numerical input data. Have to give ouput/target to Categorical Supervised oputput
 
-2. Unsupervised: Only have input data - Don't have oputput so you get confused what to do! You can do this 4 things -
+2. Unsupervised: Only have input data - Don't have output so you get confused what to do! You can do this 4 things -
 	1. Clustering: Divide input data in several gropus so that can get clear idea about the datas categories.
 	2. Dimentionality Reduction: When have too many column/feature then this technique take 2 column and merge them together in a single column. Also called as feature extraction.
 		# Visulation: Lets have too many dimentional data then it shrink all dimentions in 2 or 3D to visulize same things.       
@@ -16,7 +16,6 @@ Data:
 	4. Association rule learning: When theres have too many data then it will find Association among them. And depend on it will arrange datas efficently.
 
 3. SemiSupervised: Need to Lebel few data manually then the Unsupervised learning will level remain data by itself.
-4. Reinforcement Learning: No data provided. 
-
+4. Reinforcement Learning: No data provided. Agent learned by reward-punishment process. Start learning from zero.
 
 
