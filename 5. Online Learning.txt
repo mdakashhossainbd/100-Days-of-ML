@@ -1,0 +1,24 @@
+
+
+
+                Data > Data chunk > Trained Model > Test > Deploy > Predict + Learning
+
+# When to use: 
+    1. Where is conception drift(Data change frequently: Share market)
+    2. Cost Effictive
+    3. Faster solution: Data trained from data chanck to take less time to train. Possible to train in onine server.
+
+Online Library: 
+1. River
+2. SKlearn
+
+# Learning Rate: How frequently you will train your model. Very Very important to get the exact output. Set correct learning rate.
+
+# Out of Core Learning: Large amount of data which cant load at-once by Batch learning by your memory. Like 50 GB data in 8GB ram.
+Data > Mini Chunks (Offline Process)
+model > test > Deploy (Online process)
+
+# Disadvantage: 
+    i) Tricky: To get the exact result what we want when frequently getting huge new data.
+    ii) Risky: Can change model behavour by spamming data. Determine risk managment factors. Have to active monitoring system like anomaly detection, offline and rollback system.
+

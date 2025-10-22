@@ -1,0 +1,16 @@
+
+
+How train ML model!
+
+Production: Is a server where our code to Run. This also called Production Enviorment. Where we coding is called Development Enviorment.
+
+1. Batch(Offline) ML
+    Utilize Whole data during Tranning. No increment tranning(Data chunk). Done by own offline machine. When the model is ready then test it and put the Trained Model into the production Enviorment(deploy in a server).
+
+    # Problem: Static model. Work only on the old data to solve it we have to continues Retranning priodically.
+            New data + Old model = Merged Model -> Test -> Server  - Repete again after 24 Hour
+
+    # Disadvantage:
+    Big data casuse problem in tranig time
+    Hardware limitation: Need to update the client ever time.
+    Availability - Can't get instatnt needy ouptut, we will get this ouptut after the fixed priodic time.
