@@ -1,0 +1,13 @@
+
+
+
+# Learning: 
+    i) Memoryzing
+    ii) Generalzing: Understanding the principle.
+
+1) Instance Based Learning: Also called lazy learner. Model stores full data. No trained model or Learning procedure there. It only find the smillerity(of the old data point) by using distance. 
+Example:
+KNN: Plot all data point based on stored datasets. When get a new data point then place among theme to take nerest(Closest 5/3 points) points and determind the result. Majority smiller point will be the oputput. Take large storage. 
+
+2) Model Based Learning: Model try to explore the insight. Algorithm try to Understand the behavour of data points by mathmatical function; drawing  cruve line to differntiate. No need of tranning points. Take less storage. 
+
