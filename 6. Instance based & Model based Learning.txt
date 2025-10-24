@@ -9,6 +9,7 @@
 Example:
 KNN: Plot all data point based on stored datasets. When get a new data point then place among theme to take nerest(Closest 5/3 points) points and determind the result. Majority smiller point will be the oputput. Take large storage. 
 
-2) Model Based Learning: Model try to explore the insight. Algorithm try to Understand the behavour of given data points by mathmatical function; drawing cruve boundary line to differntiate. Decission made by The drawn dicission functio. No need of tranning points. Take less storage. 
+2) Model Based Learning: Model try to explore the insight. Algorithm try to Understand the behavour of given data points by mathmatical function; drawing cruve boundary line to differntiate. Decission made by The drawn dicission functio. Must have to save the tarined model for prediction. No need of tranning points. Take less storage. 
+
 
 
