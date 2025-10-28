@@ -1,0 +1,18 @@
+Step:
+Go to kaggle account and download API token. and upload to colab.
+write:
+	!mkdir -p ~/.kaggle
+	!cp kaggle.json ~/.kaggle/
+
+Now copy API from dataset and run it.
+	Download > Kaggle CLI > Add ! before the copyed text. And run it.
+
+DONE.
+
+Now unzip the imported files:
+	import zipfile
+	zip_ref = zipfile.ZipFile('/content/face-mask-detection-dataset.zip', 'r')
+	zip_ref.extractall('/content')
+	zip_ref.close()
+
+Delete the zip file.

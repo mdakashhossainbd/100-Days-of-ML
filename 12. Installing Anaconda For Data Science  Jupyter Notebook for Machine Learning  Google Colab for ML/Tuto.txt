@@ -1,0 +1,21 @@
+Step:
+1. Install Anaconda and Work with Jupitur Notebook.
+2. VM:
+	* Open Anacond pormpt as (base).
+	* conda create --name vm_1
+	* To active: conda activate vm_1
+	* To install jupitur library: conda install anaconda::jupyter
+
+	* Type to open the nootbook: jupyter notebook
+
+	* No library installed. So stop the command prompt and type: conda install numpy
+
+	* To active deactivate VM write - deactivate.
+		OR
+	write !pip install pandas in jupyter notebook to direct download
+		OR 
+	use Anaconda Navigator
+
+To remove the VM:
+	conda deactivate
+	conda remove --name vm_1 --all
