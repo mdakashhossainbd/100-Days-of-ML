@@ -1,0 +1,6 @@
+
+
+1. Data Engineer
+OLTP: Online Transectioin Processing -> Database
+OLAP: Online Analytical Processing -> Data Warehouse
+ 

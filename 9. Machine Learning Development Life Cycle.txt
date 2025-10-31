@@ -1,0 +1,13 @@
+
+MLDLC
+
+1. Frame the problem.
+2. Gathering Data from csv, APIs, web scrapping, Databasae and spark clustering.
+3. Data preprocessing: Remove duplicate and outliers, fill missvalues, Scalling.
+4. Feature Engineering and Selection.
+5. Model tranning, evalution and selection. -> Hyperameter tunning-> Ensamble learning(Mearge 2 or many algorithm to get best output)
+6. Model Development: Make binary file(PKL) -> convert to APIs.
+User From -> Python code -> API -> Binary file -> Predict -> json -> python -> End user.
+    Use: heroko, aws, gcp
+
+7. Testing: 

@@ -1,0 +1,22 @@
+
+
+ML - Learning from Data.
+
+Challanges:
+    # Data gathering: Web scripping & featch data from APIs.
+    # Insufficent data/leveled data
+
+    # Unresonable effectiveness of data: If you have lot of data the the it dosent effect what algo you are used.
+
+    # Non representative data: Give a wrong conclusion on half or less amount of data.
+
+    # Sample noise:  Take same data form deffirent data.
+
+    # Sampling baise: Take same data from different data but have the same souce.
+
+    # Poor quality of data: 
+    # Overfitting: Keeps info during tranning. Don't understand the core concept. Only work well for trained data.
+    # Underfitting: 
+    # Software Integration
+    # Offline learning:
+    # Cost Involved

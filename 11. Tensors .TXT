@@ -1,0 +1,30 @@
+
+Tensor: Is a Data structer. Generally store numbers.
+Vector and Matrix is a typeo of Tensor.
+0 Dimention: Scaler 
+List of number: Vector
+2D: Matrix
+3D, 4D.........
+
+
+0D Tensors: (2,3) Scaler
+
+Array == Tensor
+No of Dimention == Number of Axis == Rank
+
+1D Tensor = Vector
+([1,2,3,4]) 1D Tensor = 4D Vector
+
+
+2D Tensor == 2 Axis == Matrix == Rank 2
+	[1,2,4] 
+	[4,5,6] 
+	[2,9,4]
+
+
+Rand,Axes and Shape
+No of axis = rank = Dimention
+Shpae = Maximum item in a perticular Axis
+size = total items
+
+shape = rank * row * column
