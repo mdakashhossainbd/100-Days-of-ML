@@ -1,0 +1,6 @@
+
+
+Gather dtat from various source
+# Working with CSV, json, SQL file.
+# Feacth data form APIs.
+# Web scraping.
