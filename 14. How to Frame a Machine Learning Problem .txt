@@ -1,0 +1,10 @@
+
+
+Churn Rate: Example - Netflix
+1. Business Problem: Frame problem into the mathmatical from (what percentge)
+2. Problem type: Identify the main resone of the problem. (Whice causes is effect)
+3. Current solution: Identify the current solutionf Factors.
+4. Getting Data: From data scientist team.   
+5. Get Matrix
+6. Online and batch 
+7. Chekc assumption   
