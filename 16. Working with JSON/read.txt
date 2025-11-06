@@ -1,1 +1,7 @@
-For this day use use our local-host and xammp for done this work. Not with Google colab.
+For this day use use our Jupyter Notebook and xammp for done this work. Not with Google colab.
+
+
+Open LocalHost PHPmyadmin:
+  create Database -> Import the databse name world. -> Waiting for upload -> Got 3 Tables
+
+Now we will convert the sql dataset to pandas dataframe.
