@@ -1,9 +1,12 @@
 Search for TMDB API -> Pick top rated API
+TMDB
 https://www.themoviedb.org/
 
 Create account and get own api key.
 Integrated API key with the API
 Past it to the browser.
+https://api.themoviedb.org/3/movie/top_rated?language=en-US&page=1
+
 https://api.themoviedb.org/3/movie/top_rated?api_key=a2244e7e8c17fa0841688cda8404c714&language=en-US&page=1
 
 Go to json viewer and paste the paste the key: https://jsonviewer.stack.hu/
@@ -17,5 +20,6 @@ popularity :
 release_date : 
 vote_average : 
 vote_count : 
+
 
  Shape: 10468*7 for 425 pages
